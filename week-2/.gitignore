@@ -1,0 +1,15 @@
+# IntelliJ IDEA
+.idea/
+
+# Maven build folder
+**/target/
+
+# Compiled class files
+*.class
+
+# Log files
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
